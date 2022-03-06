@@ -2,6 +2,7 @@
 AI Weather Detection software is an original artificial intelligence system, whose image-based algorithm and model was created by me, working with 99% accuracy. The software has been converted to .EXE file format for the convenience of humans. It will automatically connect to the External Camera and just press the SPACE button (For taking pictures). The sample forecast data and artificial intelligence brain (model) were shared by me as open source. I am proud to share innovative software for you. This software is available as open source for free for all humanity.
 
 Note: Exe app is installed via Kaggle (High file size): https://www.kaggle.com/emirhanai/ai-weather-detector-exe-application
+
 Kind regards,
 
 Emirhan BULUT
